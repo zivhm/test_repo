@@ -8,5 +8,4 @@ def add_footer():
     ...
     
 def add_new_feature():
-    create conflict
-    
+    create scroller
