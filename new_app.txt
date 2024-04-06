@@ -3,3 +3,7 @@ def create_app():
 
 def add_navbar():
     ...
+
+def add_footer():
+    ...
+    
