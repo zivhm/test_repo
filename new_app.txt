@@ -7,3 +7,6 @@ def add_navbar():
 def add_footer():
     ...
     
+def add_new_feature():
+    ...
+    
